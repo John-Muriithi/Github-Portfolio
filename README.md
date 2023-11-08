@@ -1,6 +1,6 @@
 # Portfolio Template
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+### A beautiful minimal and accessible portfolio template ✨.
 
 To View the live site click [here &rarr;]( https://john-muriithi.github.io/Github-Portfolio/)
 
